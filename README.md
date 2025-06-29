@@ -51,3 +51,22 @@ Identify top-performing songs and artists, explore historical streaming behavior
 
 7. Goal of the Dashboard
 Enable music analysts, marketers, and streaming strategists to monitor trends, optimize releases, and maximize engagement using historical Spotify data.
+
+8. Screenshot / Demos
+Show what the dashboard looks like -!( https://github.com/priyasaini78/Spotify-Music-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+example :!(https://github.com/priyasaini78/Spotify-Music-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
