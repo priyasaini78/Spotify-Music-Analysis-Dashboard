@@ -53,8 +53,7 @@ Identify top-performing songs and artists, explore historical streaming behavior
 Enable music analysts, marketers, and streaming strategists to monitor trends, optimize releases, and maximize engagement using historical Spotify data.
 
 8. Screenshot / Demos
-Show what the dashboard looks like -https://github.com/priyasaini78/Spotify-Music-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
-Example : https://github.com/priyasaini78/Spotify-Music-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
+Show what the dashboard looks like -
 
 
 
